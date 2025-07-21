@@ -1,6 +1,6 @@
 ### 👋 I'm Axel, a full-time full-stack freelance developer 👨‍💻
 
-- 🔭 I’m currently working on Chatbot RAG  
+- 🔭 I’m currently working on AI Agents
 - 🌱 I’m currently learning AI and Machine Learning  
 - ❓ Ask me about anything related to computer science  
 
