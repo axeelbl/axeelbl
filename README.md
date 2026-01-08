@@ -1,4 +1,4 @@
-### 👋 I'm Axel, a full-time full-stack freelance developer 👨‍💻
+### 👋 I'm Axel, a Computer Science Engineer 👨‍💻
 
 - 🔭 I’m currently working on AI Agents
 - 🌱 I’m currently learning AI and Machine Learning  
