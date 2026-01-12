@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning AI and Machine Learning  
 - ❓ Ask me about anything related to computer science  
 
+Interactive Portfolio / Chatbot CV: https://axelbot.up.railway.app/
 ---
 
 ## 🚀 My Skill Set
