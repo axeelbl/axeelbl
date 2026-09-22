@@ -6,6 +6,7 @@ I build end-to-end software: from data and model logic to APIs, interfaces, cont
 
 [![Portfolio](https://img.shields.io/badge/Interactive_portfolio-axelbl.dev-0A66C2?style=for-the-badge)](https://axelbl.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-axeelbl-181717?style=for-the-badge&logo=github)](https://github.com/axeelbl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Axel_Berral-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/axelbl/)
 
 ## Featured projects
 
@@ -63,5 +64,6 @@ My private automation systems cover complete media workflows, including source a
 ## More
 
 - 🌐 Interactive portfolio and chatbot CV: [axelbl.dev](https://axelbl.dev)
+- 💼 LinkedIn: [linkedin.com/in/axelbl](https://www.linkedin.com/in/axelbl/)
 - 📄 [CV in English](./Axel_Berral_CV_EN.pdf)
 - 📄 [CV en español](./Axel_Berral_CV_ES.pdf)
