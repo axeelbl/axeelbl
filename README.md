@@ -1,37 +1,67 @@
-### 👋 I'm Axel, a Computer Science Engineer 👨‍💻
+# Hi, I'm Axel Berral 👋
 
-- 🔭 I’m currently working on AI Agents
-- 🌱 I’m currently learning AI and Machine Learning  
-- ❓ Ask me about anything related to computer science  
+**Computer Science Engineer focused on AI products, reliable automation, and applied machine learning.**
 
-Interactive Portfolio / Chatbot CV: https://axelbl.dev
- 
----
+I build end-to-end software: from data and model logic to APIs, interfaces, containers, tests, CI, and production operations. My current work centres on AI agents, recommendation systems, ML experiments, and practical automation that solves real workflows.
 
-## 🚀 My Skill Set
+[![Portfolio](https://img.shields.io/badge/Interactive_portfolio-axelbl.dev-0A66C2?style=for-the-badge)](https://axelbl.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-axeelbl-181717?style=for-the-badge&logo=github)](https://github.com/axeelbl)
 
-### Frontend  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" style="margin-right:8px" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" style="margin-right:8px" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin-right:8px" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" style="margin-right:8px" /></a>
+## Featured projects
 
-### Backend  
-<a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" style="margin-right:8px" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" style="margin-right:8px" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" style="margin-right:8px" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" style="margin-right:8px" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" style="margin-right:8px" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" style="margin-right:8px" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" style="margin-right:8px" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" style="margin-right:8px" /></a>
+### [Tennis Match Predictor](https://github.com/axeelbl/Tennis-Match-Predictor)
+Leakage-aware machine-learning pipeline for predicting tennis match outcomes from historical, pre-match information. Includes grouped temporal evaluation, reproducible training, tests, and CI.
 
-### DevOps  
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" style="margin-right:8px" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="30" style="margin-right:8px" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="30" style="margin-right:8px" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" style="margin-right:8px" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" style="margin-right:8px" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" style="margin-right:8px" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" style="margin-right:8px" /></a>
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="30" style="margin-right:8px" /></a>
+`Python` · `scikit-learn` · `pandas` · `machine learning`
+
+### [Do We Need GNN Edge?](https://github.com/axeelbl/Do-we-need-GNN-edge)
+Research-oriented comparison of graph and non-graph approaches, with reproducible experiments, validation guards, and explicit controls against target leakage.
+
+`Python` · `graph neural networks` · `PyTorch` · `research`
+
+### [LoveLink](https://github.com/axeelbl/LoveLink)
+Privacy-conscious social recommendation system that uses graph relationships and friend-of-a-friend signals to surface explainable connections.
+
+`Python` · `graphs` · `recommendation systems` · `privacy`
+
+### [Newspeak](https://github.com/axeelbl/Newspeak)
+A full-stack social news application with voice playback, secure authentication, tested services, and automated builds.
+
+`Grails` · `Groovy` · `JavaScript` · `text to speech`
+
+### [Dashboard Finanzas](https://github.com/axeelbl/dashboard-finanzas)
+Privacy-first personal finance dashboard with defensive imports, deterministic categorisation, SQLite safeguards, Docker deployment, and synthetic tests.
+
+`Python` · `Flask` · `SQLite` · `Docker`
+
+### [Python Mini-Projects](https://github.com/axeelbl/Python)
+A polished set of graphical learning projects featuring a safe AST calculator, an event-driven spinner, and a tested orbital simulation.
+
+`Python` · `Tkinter` · `pygame` · `pytest`
+
+## AI agents and automation
+
+I also maintain a family of specialised assistants for finance, restaurants, salons, gyms, CVs, news, and sports. They share the same product principles: constrained model access, validated inputs, explicit fallbacks, privacy-aware storage, health checks, automated tests, and reproducible deployment.
+
+My private automation systems cover complete media workflows, including source analysis, script generation, narration, subtitles, video composition, thumbnails, human approval gates, and scheduled publishing.
+
+## What I care about
+
+- **Reliable AI products** — model calls are only one component; validation, fallbacks, observability, and user control matter just as much.
+- **Reproducible ML** — correct feature timing, grouped or temporal splits, deterministic runs, and honest evaluation.
+- **Security and privacy** — no credentials in repositories, conservative defaults, synthetic fixtures, and minimal data exposure.
+- **Production discipline** — clean environments, focused tests, dependency audits, Docker, and green CI.
+
+## Core stack
+
+**Languages:** Python, JavaScript, Java, Groovy, SQL  
+**AI & data:** scikit-learn, pandas, graph algorithms, LLM APIs, recommendation systems  
+**Backend:** FastAPI, Flask, Node.js, Grails  
+**Frontend:** React, HTML, CSS, JavaScript  
+**Infrastructure:** Docker, Linux, GitHub Actions, SQLite, PostgreSQL
+
+## More
+
+- 🌐 Interactive portfolio and chatbot CV: [axelbl.dev](https://axelbl.dev)
+- 📄 [CV in English](./Axel_Berral_CV_EN.pdf)
+- 📄 [CV en español](./Axel_Berral_CV_ES.pdf)
