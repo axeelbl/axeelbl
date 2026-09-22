@@ -54,10 +54,10 @@ My private automation systems cover complete media workflows, including source a
 
 ## Core stack
 
-**Languages:** Python, JavaScript, Java, Groovy, SQL  
-**AI & data:** scikit-learn, pandas, graph algorithms, LLM APIs, recommendation systems  
-**Backend:** FastAPI, Flask, Node.js, Grails  
-**Frontend:** React, HTML, CSS, JavaScript  
+**Languages:** Python, JavaScript, Java, Groovy, SQL<br>
+**AI & data:** scikit-learn, pandas, graph algorithms, LLM APIs, recommendation systems<br>
+**Backend:** FastAPI, Flask, Node.js, Grails<br>
+**Frontend:** React, HTML, CSS, JavaScript<br>
 **Infrastructure:** Docker, Linux, GitHub Actions, SQLite, PostgreSQL
 
 ## More
